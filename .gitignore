@@ -1,0 +1,12 @@
+.DS_Store
+.build/
+.swiftpm/
+build/
+*.xcodeproj/
+xcuserdata/
+# Never commit audio you don't own the rights to (e.g. meme clips).
+*.mp3
+*.wav
+*.m4a
+*.aiff
+*.caf
